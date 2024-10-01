@@ -2,7 +2,7 @@ def PrintHelloWorld():
 	print("Hello World!")
 
 def main():
-	PrintHelloWorld
+	PrintHelloWorld()
 
 if __name__=="__main__":
 	main()
