@@ -1,0 +1,6 @@
+print('Sum of two floats:')
+print('2.0 + 4.0 =', 2.0 + 4.0)
+print('Difference between two integers:')
+print('5 - 2 =', 5-2 )
+print('Product between a float and an integer:')
+print('2.0 * 8 =', 2.0*8)
